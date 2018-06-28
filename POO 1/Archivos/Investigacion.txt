@@ -1,0 +1,41 @@
+Google Analytics es una herramienta de analítica web de la empresa Google. 
+Ofrece información agrupada del tráfico que llega a los sitios web según la audiencia,
+la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio web.
+Se pueden obtener informes como el seguimiento de usuarios exclusivos, 
+el rendimiento del segmento de usuarios, los resultados de las diferentes 
+campañas de marketing online, las sesiones por fuentes de tráfico, 
+tasas de rebote, duración de las sesiones, contenidos visitados, 
+conversiones (para ecommerce), etc. 
+Este producto se desarrolló basándose en la compra de Urchin 
+(hasta entonces la mayor compañía de análisis estadístico de páginas web)
+por parte de Google. Google anunció el 2 de abril del 2014 el l
+anzamiento de la última y más 
+completa actualización de esta herramienta: Universal Analytics.
+Para la tecnología web, se comienza añadiendo un código JavaScript a 
+cada una de las páginas que se desea analizar, al que se denomina 
+GATC (Google Analytics Tracking Code). Éste carga algunos archivos 
+desde los servidores Google y monitoriza para luego enviar toda 
+esta información al servidor Google y almacenarla en la cuenta de cada usuario.
+Para funcionar, el GATC carga un archivo más grande desde el servidor 
+web de Google, y luego asigna a las variables con el número de cuenta del usuario. 
+El archivo más grande (actualmente conocido como ga.js) es típicamente 
+de 18 KB en tamaño y solo se descarga una vez al comienzo de la visita, ya que 
+se almacenará en la caché durante el resto de la sesión. Como todos los sitios 
+web que implementan Google Analytics con el código de ga.js usan el mismo archivo 
+maestro de Google, un visitante que anteriormente hubiera visitado cualquier otro
+ sitio con este código implementado también tendrá el archivo en el caché de su máquina. 
+El resultado es que el aumento del tiempo de carga de la página al incluir el código es mínima.
+Tiene una interfaz muy completa de informes con gráficos desarrollados en Adobe Flash. 
+Recientemente se actualizó la interfaz pero aún está disponible la interfaz antigua habilitada.
+También es posible enlazar esta herramienta con Google Webmaster Tools para obtener 
+resultados referidos al estado del sitemap, robots.txt y estado de indexación del sitio general.
+El 2 de abril de 2014, Google anunció el lanzamiento completo de la última actualización de Analytics, 
+que es a su vez la más importante que ha realizado hasta la fecha: Universal Analytics. 
+Con esta actualización, la herramienta ofrece más funciones e información más precisa.
+El principal objetivo de Universal Analytics es ofrecer información más completa sobre los usuarios, 
+tratando de relacionar las sesiones en diferentes dispositivos (pc, tablet, smartphone, etc.) 
+con usuarios únicos, ya que Google entiende que un mismo usuario puede visitar 
+un mismo sitio web desde los diferentes dispositivos con los que accede a internet.
+Con este cambio, Google Analytics pretende llegar a entender de una forma más global y 
+completa el comportamiento de los usuarios en los diferentes sitios web, 
+aportando información más precisa a los administradores de los sitios web.
